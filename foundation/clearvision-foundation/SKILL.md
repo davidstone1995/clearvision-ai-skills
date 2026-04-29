@@ -62,34 +62,6 @@ Logos, visual identity, graphics, and brand standards. Especially relevant for n
 
 ---
 
-## The R4 Marketing System
-
-Clear Vision's proprietary framework for small business marketing. A pyramid with four layers, each building on the one below it. When talking to small business owners, this is the diagnostic and delivery framework.
-
-```
-        Referral         (top)
-       ──────────
-        Reach
-       ──────────
-        Retain
-       ──────────
-        Reputation       (base)
-```
-
-**Reputation (base layer):** Without a solid reputation, nothing else works. Covers online reviews, website quality, mobile optimization, and brand perception. "91% of consumers choose to do business based on online feedback." Reviews are a lagging indicator -- they reflect the customer experience before, during, and after the sale. Marketing drives the before and after.
-
-**Retain:** Keep existing customers coming back. Automated follow-up, birthday funnels, reactivation campaigns, and a unified inbox so no conversation falls through the cracks.
-
-**Reach:** Get in front of new customers. Website SEO, local listings (Yext), SMS list building, call tracking, and paid advertising.
-
-**Referral:** Turn happy customers into your best marketing channel. Review requests, referral systems, and word-of-mouth automation.
-
-**The diagnosis:** Most small businesses have gaps in at least two of the four layers. Clear Vision's job is to identify which layers are broken and fix them in order, starting from the base.
-
-**Positioning:** "Done WITH You." Clear Vision is not a set-it-and-forget-it vendor. David stays in the work alongside clients.
-
----
-
 ## Brand, Web, Leads Framework
 
 The three-pillar service model for agency clients:
